@@ -3,8 +3,7 @@
 ## Description
 
 The following is a weather dashboard that displays current city selected. It will also display a 5-day forecast. The technologies used to create this assignment were utilizing an API by generating a key from openweather.org and using the public weather API. Then a fetch request was required to obtain the information such as current city, temp, humidity, and wind speed.
-![Screenshot of quiz](assets/images/)
-![Screenshot of quiz](assets/images/)
+![Screenshot of dashboard](assets/images/weather_search.png)
 
 ## Credit:
 
@@ -12,7 +11,7 @@ Hannah Folk, my tutor, helped with reviewing my code and helped me with the code
 
 ## Deployed Site:
 
-https://eweagraff.github.io/weather_dashboard
+https://eweagraff.github.io/weather_dashboard/
 
 ## License:
 
