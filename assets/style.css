@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+  margin: 25px;
+}
+
+.card-text {
+  text-align: right;
+}
